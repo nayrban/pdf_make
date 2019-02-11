@@ -1,0 +1,6 @@
+{
+  "name": "pdf-make-webapp",
+  "dependencies": {
+    "pdfmake": "^0.1.51"
+  }
+}
